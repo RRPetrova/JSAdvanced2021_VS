@@ -1,0 +1,15 @@
+{
+  "name": "07_addsubtract",
+  "version": "1.0.0",
+  "description": "",
+  "main": "07_addSubtract.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "RRP",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.0",
+    "mocha": "^8.2.1"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "04_sumnumbers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "04_sumNumbers.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "RRP",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.0",
+    "mocha": "^8.2.1"
+  }
+}

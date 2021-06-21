@@ -1,0 +1,15 @@
+{
+  "name": "ex02_evenodd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Ex02_evenOrOdd.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "RRP",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.0",
+    "mocha": "^8.2.1"
+  }
+}
